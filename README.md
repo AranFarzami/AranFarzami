@@ -1,16 +1,16 @@
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="center"><img src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJkbjVyNDYwcXdtZmtpcTRocXFsbjBla3lrNWI4MXdrd2JnZjM1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m3lszq64i1k2s/giphy.gif](https://[media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXdxYzJhazRoN3EyeDNwZHNmNGR0aW5kOGUzb2FmNmZlNmZnaHZveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dLolp8dtrYCJi/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXdxYzJhazRoN3EyeDNwZHNmNGR0aW5kOGUzb2FmNmZlNmZnaHZveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dLolp8dtrYCJi/giphy.gif))" width="100%" height="auto"/></p>
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/dLolp8dtrYCJi/giphy.gif" width="100%" height="auto"/>
+</p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi!+I'm+AranFarzami+%3C3;Welcome+to+my+profile!" alt="Title"></img>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi!+I'm+AranFarzami+%3C3;Welcome+to+my+profile!" alt="Title">
   </a>
 </div>
 
-
-<img width="28%" align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJkbjVyNDYwcXdtZmtpcTRocXFsbjBla3lrNWI4MXdrd2JnZjM1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m3lszq64i1k2s/giphy.gif">
-
+<img width="28%" align="right" src="https://media4.giphy.com/media/m3lszq64i1k2s/giphy.gif">
 
 <h2 align="left">
   Hi there
@@ -19,14 +19,13 @@
 
 I'm **[`ARAN`](https://www.youtube.com/@aran_Lab)**, a hacker & Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in malware analysis, vulnerability assessment and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
 
-
 <details>
   <summary>More about me</summary>
 
 - **Name**: AranFarzami
-- **From**: Iran 
-- **Bug Hunter** | **Security Researcher** | 
-- i have experience in **Cracking**,**Reverse Engineering**,**Malware Analysis**,**Social engineering**,**Detective**
+- **From**: Iran
+- **Bug Hunter** | **Security Researcher**
+- I have experience in **Cracking**, **Reverse Engineering**, **Malware Analysis**, **Social Engineering**, **Detective**
 - Improving knowledge in **Webapp Vulnerabilities**
 - Lifelong learner — always exploring **everything**
 - Reach me out at **aranfarzam@gmail.com**
@@ -36,24 +35,23 @@ I'm **[`ARAN`](https://www.youtube.com/@aran_Lab)**, a hacker & Security Researc
 
 ---
 
-<h2 id="present_status"> Present Status </h3>
+<h2 id="present_status">Present Status</h2>
 
-<img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
+<img width="25%" align="right" src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
 
-👉 Still Learning Bug hunting 
+👉 Still Learning Bug hunting
 
-👉 Managing Tech Communities & Content creator.
+👉 Managing Tech Communities & Content creator
 
 👉 Writing Some Useful Tools For Myself & Communities
 
 👉 Building & Contributing To Open Source Projects
 
-
-`Updating:`  Journey to Cybersecurity Specialist.
+`Updating:` Journey to Cybersecurity Specialist.
 
 ---
 
-<h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
+<h2 id="knowledge_skills">Knowledge & Skills</h2>
 
 <br>
 

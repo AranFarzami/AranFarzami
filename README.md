@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/dLolp8dtrYCJi/giphy.gif" width="100%" height="auto"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWV0ZWJvNWNjaTc1NzUzZHZibHY5djN1OXpncDh3bHVkamd4MXpkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mO2J5fNdc4JSdPkmKq/giphy.gif" width="100%" height="auto"/>
 </p>
 
 <div align="center">
